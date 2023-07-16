@@ -1,0 +1,55 @@
+body{
+    
+    background-color: #b8e994;
+}
+
+#headerSection{
+    padding: 10px;
+    
+}
+
+h1{
+    font-family: cursive;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+#dropBox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+}
+
+#loginBtn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+}
+#back-button {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  #logout-button {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
+  
